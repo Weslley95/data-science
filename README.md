@@ -15,7 +15,7 @@ Falsificações: Falsificações das cédulas.
 
 O projeto consiste na amostra de dados, utilizando notebook contendo algumas manipulações e exploração de dados, utilizando recursos como pandas e Scikit-Learn.
 
-### [Visualizar Notebook](https://github.com/Weslley95/data-science/blob/master/notebook/cedulas_falsificadas.ipynb)
+### [Visualizar Notebook](https://github.com/Weslley95/project-forgeries-data-science/blob/master/notebook/cedulas_falsificadas.ipynb)
 
 <br>
 
