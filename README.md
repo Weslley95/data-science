@@ -1,4 +1,8 @@
+<center> 
+
 # Falsificações por ano e por estado
+
+</center> 
 
 Diariamente o departamento do meio circulante no Banco Central do Brasil identifica cédulas falsas em suas análises.
 
@@ -21,8 +25,6 @@ O projeto consiste na amostra de dados, utilizando notebook contendo algumas man
 - Curso: Ciência da Computção
 - Disciplina: Ciência de Dados
 - Professor: Dr. José Eduardo Storopoli
-
-<br>
 
 ```
 Storopoli (2020, March 2). Ciência de Dados com Python: pandas, matplotlib, scikit-learn e tensorflow: Ciência de Dados. Disponível em: https://storopoli.io/ciencia-de-dados
